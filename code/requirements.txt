@@ -1,0 +1,5 @@
+Keras
+matplotlib
+phypy
+tensorflow
+matplotlib2tikz
